@@ -1,1 +1,1 @@
-# ls-postman-rest-api
+# Contentful REST API Postman Tutorial
